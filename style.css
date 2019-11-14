@@ -4,3 +4,13 @@
     border: none;
 }
 
+.ui.centered.image{
+    width: 200px;
+
+}
+
+.ui.borderless.midmenu.menu{
+    box-shadow: none;
+    border: none;
+}
+
