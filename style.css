@@ -6,7 +6,6 @@
 
 .ui.centered.image{
     width: 200px;
-
 }
 
 .ui.borderless.midmenu.menu{
@@ -20,14 +19,17 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
 .ui.column{
     color: #F5F5F5;
 }
+
 .borderless.bottmenu.menu {
     background-color: #292929;
     box-shadow: none;
     border: none;
 }
+
 .fitted.text{
     font-size: small;
     font-style: normal;
